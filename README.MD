@@ -6,4 +6,4 @@ kilkukrotnie i prześledzić ile potrzeba prób
 
 3_3 oraz 5_1 domyślnie zakomentowane jest zapisywanie wyników do plików
 
-##### Zaktualizowano 01.03.2022
+> Zaktualizowano 02.03.2022
